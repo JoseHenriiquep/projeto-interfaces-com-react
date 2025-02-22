@@ -1,5 +1,5 @@
 import React, { useState, useEffect, use } from 'react'
-import { Container, Form, FormFeedback, FormGroup, Label, Input, Button, Modal, ModalHeader, ModalBody, ModalFooter } from 'reactstrap'
+import { Container, Form, FormFeedback, FormGroup, Label, Input, Button } from 'reactstrap'
 import '../styles.css';
 
 export default function Content(){
